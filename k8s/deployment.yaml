@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: gitops-demo-app
-        image:ankitjindalkumar/gitops-demo-app:main-23f3887a
+        image:ankitjindalkumar/gitops-demo-app:main-38776624
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
